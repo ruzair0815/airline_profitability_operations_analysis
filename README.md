@@ -18,4 +18,4 @@ Financial and operational analytics project using Python, Pandas, and Tableau to
 ## Dashboard
 
 [Tableau Link](https://public.tableau.com/app/profile/rehma.uzair/viz/Book1_17773240510540/AirlineProfitabilityOperationsAnalysis?publish=yes)
-![Dashboard](AirlineProfitabilityDashboard.png)
+![Dashboard](AirlineDash.png)
